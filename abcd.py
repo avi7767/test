@@ -1,0 +1,1 @@
+print("manish is a buffalo")
